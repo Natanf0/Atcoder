@@ -1,7 +1,10 @@
 // Autor: Natan Ferreira
+// Problema: https://vjudge.net/problem/AtCoder-abc304_c
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
+
 typedef struct Pessoa{
 	int x; 
 	int y;
